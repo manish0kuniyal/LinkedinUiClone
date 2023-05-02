@@ -1,0 +1,14 @@
+.startCard{
+    background-color: white;
+    padding: 2px 5px;
+    border: 1px solid  rgb(187, 187, 187);
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.btnno{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

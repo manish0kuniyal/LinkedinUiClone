@@ -1,0 +1,17 @@
+.postCard{
+    border-radius: 10px;
+    border: 1px solid  rgb(187, 187, 187);
+   width: 100%;
+   background-color: white;
+   padding-right: 5px;
+   margin-bottom: 10px;
+}
+.postimg{
+    width: 100%;
+    height: 30vh;}
+button{
+    display: flex;
+    justify-content: space-between;
+   align-items: center;
+   color:rgb(110, 110, 110)
+}

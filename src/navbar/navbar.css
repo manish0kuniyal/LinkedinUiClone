@@ -1,0 +1,30 @@
+
+.navbar-main{
+    background-color: white;
+   height: 8vh;
+}
+input{
+    border-radius: 2px;
+    border: 0;
+    height: 25px;
+    background-color: aliceblue;
+}
+.navbar{
+    height: 7vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.linklogo{
+    size: large;
+    color: blue;
+}
+.search-logo{
+    display: flex;
+    align-items: center;
+}
+.icon{
+    display: flex;
+    justify-content: space-evenly;
+    width: 40vw;
+}
